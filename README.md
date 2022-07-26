@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @EgHubs
 - 👀 I’m interested in Smart Homes
 - 🌱 I’m currently learning flutter
-- 💞️ I’m looking to collaborate on EgHubs app
+- 💞️ I’m looking to collaborate on flutter projects
 - 📫 How to reach me EgHubs@gmail.com
 
 <!---
